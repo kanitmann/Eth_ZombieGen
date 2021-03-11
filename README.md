@@ -5,4 +5,4 @@
 Here is my cute zombie: 
 
 
-![Zombie](./img/kanit-mann_zombie.png)
+![Zombie](https://github.com/kanitmann/Eth_ZombieGen/blob/master/img/kanit_mann_zombie.png)
